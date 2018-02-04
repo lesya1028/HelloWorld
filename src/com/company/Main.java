@@ -16,6 +16,7 @@ public class Main {
     static void task1() {
         Scanner scanner = new Scanner(System.in);
 
+
         System.out.println("ax^2 + bx + c = 0");
         System.out.print("a = ");
         double a = scanner.nextDouble();
